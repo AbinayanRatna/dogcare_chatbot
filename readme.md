@@ -21,7 +21,7 @@ A simple dog care chatbot that combines rule-based responses, database queries, 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/dogcare_chatbot.git
+   git clone https://github.com/AbinayanRatna/dogcare_chatbot.git
    cd dogcare_chatbot
    ```
 
